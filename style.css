@@ -1,0 +1,41 @@
+html, body {
+  color: #3d9bc2;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://i.imgur.com/FBaDXDu.png);
+  background-attachment: fixed;
+  background-size: cover;
+}
+#containerA {
+  float: left;
+  position: relative;
+  padding-left: 20px;
+}
+#contentA {
+  float: left;
+  position: relative;
+}
+
+#headerstyle {
+  text-align: left;
+  font-size: 75px;
+  padding: 15px;
+}
+
+#formstyle {
+  justify-content: center;
+}
+
+#containerB {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#contentB {
+
+}
+
+#imagestyle {
+  width: 200px;
+  padding: 20px;
+}
